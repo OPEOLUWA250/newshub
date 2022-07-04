@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* navbar area */
+.navbar-brand {
+    color: #fff;
+    font-size: 25px;
+}
+
+.navbar-brand:hover {
+    color: #f9f9f9;
+}
+
+.nav-item {
+    padding: 0 8px;
+}
+
+.nav-item, .nav-link {
+    color: #fff;
+}
+
+.nav-item, .nav-link:hover, .nav-link:focus {
+    color: #fff;
+}
+
+.nav-item, .dropdown-item {
+    color: #000;
+}
+
+.navbar-toggler {
+    background-color: #fff;
+}
+
+.fa-bars {
+  color: #000;
+}
+ 
+.fa-solid, .fa-regular {
+    color: #fff;
+    font-size: 20px;
+    padding: 0 10px;
+}
+
+/* End navbar area */
